@@ -15,7 +15,7 @@
 import sys
 
 input = lambda: sys.stdin.readline().strip()
-
+sys.stdin = open('../../inputs/input_2609', 'r')
 
 def gcd_recursive(A, B):
     if B > A:
