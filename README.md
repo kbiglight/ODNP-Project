@@ -1,5 +1,6 @@
-### ODOP Project
-#### One Day One Problem Project
+# ODOP Project
+### One Day One Problem Project
+### Start from 2020.07.27
 
 개발자를 목표하면서 깨달은 점이 있다.  
 
@@ -14,7 +15,7 @@
 
 <br />  
  
- #### [Links] Sites for Algorithm Practice
+### [Links] Sites for Algorithm Practice
 [BACKJOON - acmicpc.net](https://github.com/kbiglight/Solution_Repository/tree/master/backjoon(acmicpc))  
 [Programmers](https://programmers.co.kr)  
 [Samsung SW Academy](https://swexpertacademy.com/main/identity/user/requestUserPwModify.do) 
@@ -22,7 +23,26 @@
 
 <br />
 
-#### [TODO] List for this repository
+### List
+
+#### [Day 1] (2020.07.27)
+
+#### [Day 2] (2020.07.28)
+
+#### [Day 3] (2020.07.29)
+
+#### [Day 4] (2020.07.30)
+**[Backjoon] 11005번 진법 변환 2**   
+[[코드](./backjoon(acmicpc)/code.plus/math/11005.py) | ]
+
+**[Backjoon] 2745번 진법 변환**  
+[[코드](./backjoon(acmicpc)/code.plus/math/2745.py) | ]
+
+**[Backjoon] 11576번 Base Conversion**  
+[[코드](./backjoon(acmicpc)/code.plus/math/11576.py) | ]
+
+
+### [TODO] List for this repository
 - [ ] Finalize file system   
 - [ ] Find another algorithm site 
 - [ ] Figure out how to storage code and commentary efficiently
