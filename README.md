@@ -12,14 +12,12 @@
 이 프로제트는 오늘부터 특별한 일이 없는 이상 매일같이 하루 최소 한 문제이상의 Algorithm 문제를 풀고 이를 정리해 축적해 나가는 것이
 목표이다.  
 
-
 <br />  
  
 ### [Links] Sites for Algorithm Practice
 [BACKJOON - acmicpc.net](https://github.com/kbiglight/Solution_Repository/tree/master/backjoon(acmicpc))  
 [Programmers](https://programmers.co.kr)  
 [Samsung SW Academy](https://swexpertacademy.com/main/identity/user/requestUserPwModify.do) 
-
 
 <br />
 
@@ -41,6 +39,32 @@
 **[Backjoon] 11576번 Base Conversion**  
 [[코드](./backjoon(acmicpc)/code.plus/math/11576.py) | ]
 
+#### [Day 5] (2020.07.31)
+**[Backjoon] 11005번 진법 변환 2**   
+[[코드](./backjoon(acmicpc)/code.plus/math/11005.py) | ]
+
+#### [Day 6] (2020.08.01)
+**[Backjoon] 11005번 진법 변환 2**   
+[[코드](./backjoon(acmicpc)/code.plus/math/11005.py) | ]
+
+#### [Day 7] (2020.08.02)
+**[Backjoon] 17413번 단어 뒤집기 2**   
+[[코드](./backjoon(acmicpc)/hyida7/data structure/17413.py) | ]
+
+**[Backjoon] 11727번 2xN 타일링 2**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/11727.py) | ]
+
+**[Backjoon] 9095번 1,2,3 더하기**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/9095.py) | ]
+
+**[Backjoon] 11052번 카드 구매하기**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/11052.py) | ]
+
+**[Backjoon] 16194번 카드 구매하기 2**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/16194.py) | ]
+
+
+<br />
 
 ### [TODO] List for this repository
 - [ ] Finalize file system   
