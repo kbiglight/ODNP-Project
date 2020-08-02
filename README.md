@@ -40,15 +40,20 @@
 [[코드](./backjoon(acmicpc)/code.plus/math/11576.py) | ]
 
 #### [Day 5] (2020.07.31)
-**[Backjoon] 11005번 진법 변환 2**   
-[[코드](./backjoon(acmicpc)/code.plus/math/11005.py) | ]
+**[Backjoon] 11653번 소인수 분해**   
+[[코드](./backjoon(acmicpc)/hyida7/math/11653.py) | ]
+
+**[Backjoon] 1463번 1로 만들기**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/1463.py) | ]
+
+**[Backjoon] 11726번 2xN 타일링**   
+[[코드](./backjoon(acmicpc)/hyida7/DP/11726.py) | ]
 
 #### [Day 6] (2020.08.01)
-**[Backjoon] 11005번 진법 변환 2**   
-[[코드](./backjoon(acmicpc)/code.plus/math/11005.py) | ]
+###### 부끄럽게도 몸살로 쓰러져서 반강제 스킵... Shame on me...
 
 #### [Day 7] (2020.08.02)
-**[Backjoon] 17413번 단어 뒤집기 2**   
+**[Backjoon] 17413번 단어 뒤집기 2** 
 [[코드](./backjoon(acmicpc)/hyida7/data structure/17413.py) | ]
 
 **[Backjoon] 11727번 2xN 타일링 2**   
