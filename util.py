@@ -8,9 +8,10 @@ class DatetimeDecorator:
 
     def __call__(self, *args, **kwargs):
         start_time = timeit.default_timer()
-        self.func(*args, **kwargs)
+        result = self.func(*args, **kwargs)
         end_time = timeit.default_timer()
         print("WorkingTime[{}]: {} sec".format(self.func.__name__, end_time - start_time))
+        return result
 
 #
 # def logging_time(original_fn):

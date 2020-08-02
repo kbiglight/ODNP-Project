@@ -1,5 +1,5 @@
 import sys
-from logging_time import DatetimeDecorator
+from util import DatetimeDecorator
 
 sys.setrecursionlimit(5000)
 
