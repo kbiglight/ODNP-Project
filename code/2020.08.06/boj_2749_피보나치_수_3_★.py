@@ -5,8 +5,6 @@ import sys
 from util import DatetimeDecorator
 
 input: () = lambda: sys.stdin.readline().strip()
-# file input
-sys.stdin = open('inputs/input_boj_2749', 'r')
 
 
 @DatetimeDecorator
@@ -14,7 +12,7 @@ def solution(n):
     cache = [0, 1, 1]
 
     for i in range(3, n + 1):
-        cache[i % 3] = (cache[(i - 1) % 3] + cache[(i - 2) % 3])
+        cache[i % 3] = (cache[(i - 1) % 3] + cache[(i - 2) % 3]) % 1000000
     print(cache[n % 3])
     print(cache[n % 3] % 1000000)
 

@@ -6,3 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Juypter Notebook
+/오답노트/.ipynb_checkpoints/*
