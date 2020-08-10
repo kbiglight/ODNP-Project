@@ -10,7 +10,7 @@ class DatetimeDecorator:
         start_time = timeit.default_timer()
         result = self.func(*args, **kwargs)
         end_time = timeit.default_timer()
-        print("WorkingTime[{}]: {} sec".format(self.func.__name__, end_time - start_time))
+        print("WorkingTime[{}]: {:.4f} msec".format(self.func.__name__, (end_time - start_time) * 1000))
         return result
 
 #
