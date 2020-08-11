@@ -2,7 +2,7 @@ import sys
 
 input: () = lambda: sys.stdin.readline().strip()
 # file input
-sys.stdin = open('../../inputs/input_11576')
+sys.stdin = open('../../Codes/backjoon/inputs/input_11576')
 
 A, B = map(int, input().split())
 m = int(input())

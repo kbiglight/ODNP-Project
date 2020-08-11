@@ -1,4 +1,3 @@
-
 # Tag : Stack, Recursion
 # no additional input files
 import sys

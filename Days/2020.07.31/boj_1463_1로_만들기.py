@@ -5,7 +5,7 @@ sys.setrecursionlimit(5000)
 
 input: () = lambda: sys.stdin.readline().strip()
 # file input
-sys.stdin = open('../../inputs/input_1463')
+sys.stdin = open('../../Codes/backjoon/inputs/input_1463')
 
 
 # @DatetimeDecorator

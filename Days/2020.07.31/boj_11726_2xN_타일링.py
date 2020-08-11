@@ -3,7 +3,7 @@ from util import DatetimeDecorator
 
 input: () = lambda: sys.stdin.readline().strip()
 # file input
-sys.stdin = open('../../inputs/input_11726')
+sys.stdin = open('../../Codes/backjoon/inputs/input_11726')
 
 
 @DatetimeDecorator

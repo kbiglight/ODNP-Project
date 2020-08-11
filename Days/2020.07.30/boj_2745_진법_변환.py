@@ -3,7 +3,7 @@ from string import ascii_uppercase, digits
 
 input: () = lambda: sys.stdin.readline().strip()
 # file input
-sys.stdin = open('../../inputs/input_2745', 'r')
+sys.stdin = open('../../Codes/backjoon/inputs/input_2745', 'r')
 # LETTERS = list(digits) + list(ascii_uppercase)
 # LETTERS = [(v, i) for i, v in enumerate(digits+ascii_uppercase)]
 # Letters = dict(LETTERS)
